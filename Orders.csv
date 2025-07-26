@@ -1,0 +1,6 @@
+﻿Order_ID,User_ID,Product_ID,Date,Status,Revenue
+1,101,5001,01-05-2024,Delivered,499
+2,102,5002,02-05-2024,Cancelled,0
+3,101,5003,03-05-2024,Delivered,899
+4,103,5001,04-05-2024,Delivered,699
+5,104,5004,05-05-2024,Delivered,299
